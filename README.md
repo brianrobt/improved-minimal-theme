@@ -27,19 +27,19 @@ show support by buying from the creator if you end up liking and using the font.
 
 ## The old i Light
 
-![i Light search](https://github.com/thompsonbrian/iMproved-theme/raw/HEAD/assets/i_light_command_palette.png)
+![i Light search](https://github.com/brianrobt/improved-minimal-theme/raw/HEAD/assets/i_light_command_palette.png)
 
 ## The iMproved Light
 
-![iMproved light search](https://github.com/thompsonbrian/iMproved-theme/raw/HEAD/assets/improved_light_command_palette.png)
+![iMproved light search](https://github.com/brianrobt/improved-minimal-theme/raw/HEAD/assets/improved_light_command_palette.png)
 
 ## The old i Night
 
-![i Night search](https://github.com/thompsonbrian/iMproved-theme/raw/HEAD/assets/i_night_command_palette.png)
+![i Night search](https://github.com/brianrobt/improved-minimal-theme/raw/HEAD/assets/i_night_command_palette.png)
 
 ## The iMproved Night
 
-![iMproved Night search](https://github.com/thompsonbrian/iMproved-theme/raw/HEAD/assets/improved_night_command_palette.png)
+![iMproved Night search](https://github.com/brianrobt/improved-minimal-theme/raw/HEAD/assets/improved_night_command_palette.png)
 
 ## There is no iMproved Solarised
 
