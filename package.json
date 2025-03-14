@@ -1,0 +1,68 @@
+{
+	"name": "improved-minimal-theme",
+	"displayName": "iMproved - An Improved i Minimal Theme",
+	"description": "A minimal theme supporting italics",
+	"keywords": [
+		"light",
+		"night",
+		"theme",
+		"minimal",
+		"improved",
+		"dark",
+		"white",
+		"black",
+		"italic"
+	],
+	"version": "1.2.1",
+	"publisher": "brianrobt",
+	"author": {
+		"name": "Brian Thompson",
+		"email": "brianrobt@pm.me"
+	},
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"galleryBanner": {
+		"color": "#000",
+		"theme": "dark"
+	},
+	"bugs": {
+		"url": "https://github.com/thompsonbrian/iMproved-theme/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thompsonbrian/iMproved-theme"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "iMproved Light",
+				"uiTheme": "vs",
+				"path": "./themes/improved-light-color-theme.json"
+			},
+			{
+				"label": "iMproved Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/improved-night-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "758a206a-8f75-420a-8d70-4a63def1cac8",
+		"publisherId": "1d6a5a66-1480-4734-b277-5f6516c4094c",
+		"publisherDisplayName": "thompsonbrian",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1741962163515,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 252871
+	}
+}
